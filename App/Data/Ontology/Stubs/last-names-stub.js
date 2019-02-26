@@ -1,1 +1,0 @@
-'Twist', 'Johnson', 'Stephens'
