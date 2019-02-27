@@ -1,5 +1,5 @@
 //This module turns .txt files into an array of words (strings)
-
+const tokenise = require ('./');
 const fs = require('fs'); //node file system object
 
 let fileName = 'oliverTwist';
